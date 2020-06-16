@@ -1,0 +1,20 @@
+.container {
+  /* background-color: aqua; */
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: auto;
+  margin-top: 3%;
+}
+/* .listContainer {
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: auto;
+  margin-top: 3%;
+  flex-direction: row;
+} */
